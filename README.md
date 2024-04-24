@@ -1,5 +1,4 @@
-Hi 👋 <br />
-I'm [Brandon](https://brandon-d.com/)
+Hi 👋 I'm [Brandon](https://brandon-d.com/)
 
 - 🔭 Current projects:
     - Data Comparison Anaylsis Application (SvelteKit, Tauri)
