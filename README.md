@@ -1,4 +1,4 @@
-Hi 👋
+Hi 👋 <br />
 I'm [Brandon](https://brandon-d.com/)
 
 - 🔭 Current projects:
