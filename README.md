@@ -1,5 +1,6 @@
 Hi 👋 I'm [Brandon](https://brandon-d.com/)
 
 - 🔭 Current projects:
-    - Data Comparison Anaylsis Application (SvelteKit, Tauri)
-    - Itty-Bitty Dunegon Game (Godot)
+    - Itty-Bitty Dunegon - A fantasy rogue-like dungeon crawler videogame made in Godot
+    - Audifile - An audio file organizer and audio player application made with Svelte & Tauri
+    - Creating a collection of Godot Plugins
